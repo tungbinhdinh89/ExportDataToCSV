@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Lettuce - Arugula",
+    "price": 26
+  },
+  {
+    "id": 2,
+    "name": "Cheese - Mix",
+    "price": 8
+  },
+  {
+    "id": 3,
+    "name": "Wine - Prem Select Charddonany",
+    "price": 40
+  },
+  {
+    "id": 4,
+    "name": "Daves Island Stinger",
+    "price": 16
+  },
+  {
+    "id": 5,
+    "name": "Tea - Grapefruit Green Tea",
+    "price": 4
+  },
+  {
+    "id": 6,
+    "name": "Wine - Pinot Noir Stoneleigh",
+    "price": 53
+  },
+  {
+    "id": 7,
+    "name": "Peppercorns - Green",
+    "price": 17
+  },
+  {
+    "id": 8,
+    "name": "Pasta - Rotini, Dry",
+    "price": 50
+  },
+  {
+    "id": 9,
+    "name": "Milk - 1%",
+    "price": 36
+  },
+  {
+    "id": 10,
+    "name": "Sausage - Breakfast",
+    "price": 27
+  }
+]
